@@ -1,0 +1,8 @@
+.players {
+    list-style-type: none;
+    border-bottom: 5px solid black;
+}
+
+ul {
+    padding: 0;
+}
